@@ -6,4 +6,3 @@ https://shishovka.github.io/shishov_KA_sprint_10.github.io/)
 v0.0.3
 ### Описание внесенных исправлений
 1. Исправлен кейс "Email" - адрес с произвольным числом поддоменов
-
